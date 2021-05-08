@@ -1,0 +1,11 @@
+browser= chrome
+
+url = https://www.makemytrip.com/
+
+Cabsurl = https://www.makemytrip.com/Cabs/
+
+hotelPageUrl = https://www.makemytrip.com/hotels/
+
+giftcardsurl =  https://www.makemytrip.com/gift-cards/
+
+corpgifturl = https://www.makemytrip.com/gift-cards/corporate-gift-vouchers.php
